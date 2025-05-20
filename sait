@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Документация моего проекта</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <h1>Добро пожаловать в документацию!</h1>
+    <p>описание проекта.</p>
+</body>
+</html>
